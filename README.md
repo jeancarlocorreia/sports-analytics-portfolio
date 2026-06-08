@@ -12,4 +12,3 @@ Portanto, todos os dados dos CSVs importados no código são fictícios, desde e
 ## ABA 2 ##
 <img width="1342" height="754" alt="image" src="https://github.com/user-attachments/assets/40c918e6-4a97-4f56-90ce-543b7641f7d4" />
 
-Utilizei ## Streamlit ## 
