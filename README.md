@@ -1,3 +1,5 @@
+> 🟢 **Live Demo:** [Clique aqui para acessar o Dashboard Interativo]([https://sports-analytics-portfolio-acawxiqbei6nufak6app6nq.streamlit.app/])
+
 ## Criação de um dashboard interativo para análise estratégica de um projeto de jogadores sub-17 ##
 
 Dados foram gerados de maneira fictícia, já que esse projeto foi para apresentação na ARS Academy - empresa iniciando o processo
